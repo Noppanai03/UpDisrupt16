@@ -109,6 +109,7 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+    <Content Include="WebPage1.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Web.config" />
